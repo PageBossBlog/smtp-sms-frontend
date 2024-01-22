@@ -1,0 +1,29 @@
+[debug] [2024-01-11T11:00:22.093Z] ----------------------------------------------------------------------
+[debug] [2024-01-11T11:00:22.100Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Shola Jegede\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-11T11:00:22.102Z] CLI Version:   13.0.3
+[debug] [2024-01-11T11:00:22.103Z] Platform:      win32
+[debug] [2024-01-11T11:00:22.103Z] Node Version:  v21.2.0
+[debug] [2024-01-11T11:00:22.104Z] Time:          Thu Jan 11 2024 12:00:22 GMT+0100 (West Africa Standard Time)
+[debug] [2024-01-11T11:00:22.104Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-11T11:00:22.127Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-11T11:00:22.128Z] > authorizing via signed-in user (theknownmail7@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Shola Jegede\Downloads\SMS SENDER\node-sms-sender
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
