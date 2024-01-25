@@ -271,7 +271,7 @@ const SMSSender = () => {
 
   // Function to validate phone numbers
   const validateNumbers = (numbers) => {
-    const numberRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const numberRegex = /^\d+@[^\s@]+(\.[^\s@]+)*$/;
 
     for (const number of numbers) {
       if (!numberRegex.test(number)) {
